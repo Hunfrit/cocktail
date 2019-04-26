@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="empty_dp">0dp</dimen>
+	<dimen name="tiny_weeny_layout_margin">2dp</dimen>
+	<dimen name="tiny_layout_margin">4dp</dimen>
+	<dimen name="half_layout_margin">8dp</dimen>
+	<dimen name="layout_margin">16dp</dimen>
+	<dimen name="double_layout_margin">32dp</dimen>
+	<dimen name="start_bot_layout_margin">64dp</dimen>
+
+	<!--View-->
+	<dimen name="image_view_size">48dp</dimen>
+	<dimen name="loading_item_height">80dp</dimen>
+	<dimen name="btn_height">38dp</dimen>
+	<dimen name="btn_corner">32dp</dimen>
+	<dimen name="et_height">38dp</dimen>
+	<dimen name="tiny_view_padding">4dp</dimen>
+	<dimen name="small_view_padding">8dp</dimen>
+	<dimen name="mid_view_padding">16dp</dimen>
+	<dimen name="btn_side_padding">24dp</dimen>
+	<dimen name="elevation_view_padding">2dp</dimen>
+	<dimen name="elevation_layout_padding">4dp</dimen>
+	<dimen name="elevation">2dp</dimen>
+	<dimen name="elevation_disabled">0dp</dimen>
+	<dimen name="large_elevation">6dp</dimen>
+	<dimen name="view_corner_radius">5dp</dimen>
+	<dimen name="card_corner_radius">15dp</dimen>
+	<dimen name="content_corner_radius">10dp</dimen>
+	<dimen name="candidate_item_height">80dp</dimen>
+	<dimen name="buttons_height">70dp</dimen>
+
+	<!--Text size-->
+	<dimen name="drink_title_text_size">18sp</dimen>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42923F</color>
+    <color name="colorPrimaryDark">#527B4A</color>
+    <color name="colorAccent">#49A246</color>
+    <color name="colorPrimaryRed">#DB544C</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorAttention">#f52e2e</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorTransparentBackground">#6a707070</color>
+    <color name="colorDefaultEditText">#bababa</color>
+
+    <color name="colorDialogAttention">#FFF200</color>
+    <color name="colorDialogAttentionDark">#FFBF00</color>
+
+    <color name="colorAppBar">#33FFFFFF</color>
+
+    <color name="colorAlmostTransparentForWhiteScreen">#33000000</color>
+</resources>

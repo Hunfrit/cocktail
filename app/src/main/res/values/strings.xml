@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CocktailTest</string>
+
+    <!--Api errors messages-->
+    <string name="all_no_connection_error">Didn`t have internet connection</string>
+    <string name="all_internal_server_error">Ups… problem with server</string>
+
+    <!--Drink type-->
+    <string name="drink_type_ordinary">Ordinary Drink</string>
+    <string name="drink_type_cocktail">Cocktail</string>
+
+</resources>
